@@ -31,8 +31,8 @@ If user search for any video on home page then user will redirected to this sear
 
 # Author
 
-### Ankit Mishra :boy:
->  [Linkedin](https://www.linkedin.com/in/ankit-mishra-b96594195)
+### Vishnu Dutta :boy:
+>  [Linkedin](https://www.linkedin.com/in/vishnu-dutta-90baba20b/)
 
->  [GitHub](https://github.com/Ankit-Mishra07)
+>  [GitHub](https://github.com/vishnudutta1)
 
